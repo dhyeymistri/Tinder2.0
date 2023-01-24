@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86d789fd-be3c-4216-b53a-cb52ddc9e4e0"
+      }
+    },
+    "owner": "dhyeymistri"
   }
 }
